@@ -1,0 +1,7 @@
+# pltcl extension
+comment = 'CPU Moniter extension'
+default_version = '1.0'
+module_pathname = '$libdir/cpro'
+relocatable = false
+schema = pg_catalog
+superuser = false

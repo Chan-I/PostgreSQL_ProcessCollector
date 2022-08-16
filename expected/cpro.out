@@ -1,0 +1,7 @@
+create extension cpro; 
+select * from what_is_cpro();
+                     what_is_cpro                     
+------------------------------------------------------
+ Cpro - An Extension For Monitering CPU And Processes
+(1 row)
+
